@@ -1,0 +1,13 @@
+h1{
+	text-transform: capitalize;
+}
+
+*{
+	color: black !important;
+}
+
+tombol{
+	font-family: Arial;
+	font-size: 150;
+	color: #ff0000
+}
